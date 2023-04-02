@@ -1,2 +1,5 @@
 database
 database.txt
+data/*
+!data/data 1.txt
+
